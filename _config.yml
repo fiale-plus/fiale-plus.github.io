@@ -1,0 +1,17 @@
+title: Fiale Plus
+description: Fiale Plus Website
+baseurl: ""
+url: "https://fiale-plus.github.io"
+
+markdown: kramdown
+highlighter: rouge
+theme: minima
+
+# plugins:
+  # - jekyll-feed
+  # - jekyll-sitemap
+
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - README.md
